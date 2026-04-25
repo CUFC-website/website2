@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-apache-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal Gatsby starter for Apache static hosting",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^5.14.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {}
+}
